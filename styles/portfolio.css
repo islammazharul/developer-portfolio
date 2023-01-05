@@ -17,11 +17,15 @@
     padding: 18px 35px;  
 }
 .btn-secondary{
-    height: 64px;
-    width: 160px;
+    
     border-radius: 5px;
     border: 1px solid #FD6E0A;
     color: #FD6E0A;
+    background: #FFF8F3;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 19px 20px 18px;
 }
 
 /* header and navigation styles */
@@ -34,7 +38,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav ul{
     display: flex;
